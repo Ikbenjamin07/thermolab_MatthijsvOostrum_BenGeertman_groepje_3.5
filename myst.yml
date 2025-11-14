@@ -3,9 +3,8 @@ project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Thermolab
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
-
+    - name: Ben Geertman
+    - name: Matthijs van Oostrum
   date: 2025-11-05
   github: https://github.com/Ikbenjamin07/thermolab_MatthijsvOostrum_BenGeertman_groepje_3.5 # Change this URL to your GitHub repository
 
